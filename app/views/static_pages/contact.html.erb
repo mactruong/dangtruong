@@ -1,0 +1,7 @@
+<% provide:title, (t "contact" ) %>
+<h1><%= t "contact" %></h1>
+<p>
+  <%= raw t("contact_content",
+    contact_section_link: link_to((t "contact_section"),Settings.contact)
+  ) %>
+</p>

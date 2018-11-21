@@ -1,9 +1,17 @@
 en:
   static_title: "Ruby on Rails Tutorial Sample App"
   hello: "Hello world"
+  sample_app: "Sample app"
   home: "Home"
   about: "About"
   help: "Help"
+  contact: "Contact"
+  log_in: "Log in"
+  sign_up: "Sign up now!"
+  signup: "Sign up"
+  signup_content: "This will be a signup page for new users."
+  news: "News"
+  home_wellcome: "Welcome to the Sample App"
   home_content: "This is the home page for the %{ruby_tut_link} sample application."
   help_content: "Get help on the Ruby on Rails Tutorial at the %{help_section_link}.
     To get help on this sample app, see the %{rails_book_link} "
@@ -14,6 +22,8 @@ en:
     and %{screen_cast_rails} screencast series
     to teach web development with %{RoR_link} Ruby on Rails.
     This is the sample application for the tutorial."
+  contact_content: "Contact the Ruby on Rails Tutorial about the sample app at the %{contact_section_link}."
+  contact_section: "contact page"
   book: "book"
   screen_cast: "screencast series"
   ror_tut: "Ruby on Rails tutorial"
