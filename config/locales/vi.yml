@@ -1,10 +1,18 @@
 vi:
-  static_title: "Hướng dẫn Ruby on Rails app mẫu"
+  static_title: "Hướng dẫn Ruby on Rails ứng dụng mẫu"
   hello: "Chào"
+  sample_app: "Ứng dụng mẫu"
   home: "Trang chủ"
   about: "Về chúng tôi"
   help: "Hỗ trợ"
-  home_content: "Đây là trang chủ của %{ruby_tut_link} app."
+  contact: "Liên hệ"
+  log_in: "Đăng nhập"
+  news: "Tin tức"
+  sign_up: "Đăng kí ngay!"
+  signup: "Đăng kí"
+  signup_content: "Đây là trang đăng ký cho người dùng mới."
+  home_wellcome: "Chào mừng bạn đến với ứng dụng mẫu"
+  home_content: "Đây là trang chủ của %{ruby_tut_link} ứng dụng."
   help_content: "Nhận trợ giúp trong
     %{help_section_link}.
     Để nhận được trợ giúp trong ví dụ này, hãy vào
@@ -15,7 +23,9 @@ vi:
     vừa là một %{rails_book_link}
     vừa là %{screen_cast_rails}
     hướng dẫn lập trình web với %{RoR_link}.
-    Đây là ví dụ đơn gỉan của 1 app"
+    Đây là ví dụ đơn giản của 1 ứng dụng"
+  contact_content: "Liên hệ với Ruby on Rails Tutorial về ứng dụng mẫu tại %{contact_section_link}."
+  contact_section: "trang liên hệ"
   book: "sách"
   screen_cast: "screencast series"
   ror_tut: "Hướng dẫn Ruby on Rails"
