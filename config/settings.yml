@@ -8,3 +8,4 @@ news: "http://news.railstutorial.org"
 valid_name: 50
 valid_email: 255
 valid_password: 6
+gravatar: 80
