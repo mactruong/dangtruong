@@ -41,3 +41,4 @@ en:
   account: "Account"
   users: "Users"
   login_error: "Invalid email/password combination"
+  remember_me: "Remember me on this computer"

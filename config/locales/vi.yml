@@ -43,3 +43,4 @@ vi:
   account: "Tài khoản"
   users: "Người dùng"
   login_error: "Email và Password không hợp lệ"
+  remember_me: "Ghi nhớ trên máy tính"
