@@ -6,6 +6,8 @@ ruby "2.3.1"
 
 gem "rails", "~> 5.2.1"
 gem "bcrypt", "3.1.12"
+gem "ffaker"
+gem "kaminari"
 
 gem "sqlite3"
 
